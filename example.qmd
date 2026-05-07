@@ -10,3 +10,7 @@ This is a simple Quarto document created for demonstrating Git and GitHub workfl
 ## Summary Statistics on Main
  
 This section was added on `main` and will conflict with testbranch.
+
+## Analysis on testbranch
+ 
+This section was added on `testbranch` to demonstrate branching.
