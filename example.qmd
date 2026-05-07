@@ -14,3 +14,12 @@ This section was added on `main` and will conflict with testbranch.
 ## Analysis on testbranch
  
 This section was added on `testbranch` to demonstrate branching.
+
+```{r}
+plot(cars$speed, cars$dist,
+     main = "Speed vs Stopping Distance",
+     xlab = "Speed (mph)",
+     ylab = "Distance (ft)",
+     pch = 19, col = "steelblue")
+```
+
